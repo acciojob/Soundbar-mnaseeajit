@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+#buttons{
+	height : 100vh;
+	display: flex;
+	justify-content : center;
+	align-items : center;
+	background-color : #a164df;
+}
+.btn , .stop{
+	padding : 10px;
+	margin : 10px;
+	background-color :#663399;
+	color : white;
+	border : none;
+}
